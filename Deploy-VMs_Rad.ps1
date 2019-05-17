@@ -1,4 +1,4 @@
-##Someone smarter than me, make this "BETTAR!!1!"﻿
+#Someone smarter than me, make this "BETTAR!!1!"﻿
 
 #Connect to vCenter
 $vCenterInstance = Read-Host "Enter a vCenter address"
