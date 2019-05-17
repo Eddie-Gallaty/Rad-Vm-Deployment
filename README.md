@@ -1,4 +1,6 @@
-# Rad-Vm-Deployment "It's totally rad!"
+# Rad-Vm-Deployment 
+
+***"It's totally rad!"
 
 # Build is verified working in PowerCLI 6.5 Release 1 build 4624819
 
