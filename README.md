@@ -6,8 +6,7 @@
 
 # **NOTE** for CSV creation, it may benefit you to use the "vCenter Atribute Grabber" GUI script to copy and paste Template, Customization Spec, Folder name, etc into the CSV; I.E. Be lazy. 
 
-# ***CSV MUST be in the format: "Name,Template,CustomizationSpec,Folder,Host_Cluster,Datastore_Cluster,IP_Address,Subnet_Mask,Default_Gateway,DNS_1,DNS_2"
-See the "Template" (vm_list.csv) csv file I have uploaded. Always check the "Template" csv file to verify latest additons. A.K.A. "More to come!"***
+# ***CSV MUST be in the format: "Name,Template,CustomizationSpec,Folder,Host_Cluster,Datastore_Cluster,IP_Address,Subnet_Mask,Default_Gateway,DNS_1,DNS_2" See the "Template" (vm_list.csv) csv file I have uploaded. Always check the "Template" csv file to verify latest additons. A.K.A. "More to come!"***
 
 # Build is verified working in PowerCLI 6.5 Release 1 build 4624819
 
