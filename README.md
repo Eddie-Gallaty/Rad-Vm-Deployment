@@ -12,5 +12,4 @@ This is a very simple yet powerful way to semi-automate vm deployment in vCenter
 
 ***Always check the "Template" csv file to verify latest additons. A.K.A. "More to come!"***
 
-Take this and make it "BETTAR!!1!"
 
