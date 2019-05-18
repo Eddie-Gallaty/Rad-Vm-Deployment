@@ -1,4 +1,4 @@
-﻿#this is a simple quick and dirty application that pulls information about the connect vCenter instance such as templates, folders etc.
+﻿#this is a quick and easy application that pulls information about the connected vCenter instance such as templates, folders etc.
 #use this to be lazy when copying attributes to and from stuff!
 
 #Connect to vCenter.
