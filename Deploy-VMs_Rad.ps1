@@ -50,3 +50,5 @@ $vmlist = import-csv C:\users\User\Scripts\VMware\vm_list.csv
    -OSCustomizationSpec $NewOsSpec | Start-VM
 }
 
+Disconnect-VIServer -force
+
