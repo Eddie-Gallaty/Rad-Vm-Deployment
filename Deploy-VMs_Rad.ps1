@@ -4,7 +4,7 @@ Connect-VIServer -Server $vCenterInstance
 
 #Import the list of vms
 $vmlist = import-csv C:\users\User\Scripts\VMware\vm_list.csv
-   foreach ($vm in $vmlist) 
+foreach ($vm in $vmlist) 
 {
    $vmName = $vm.Name
    $temp = $vm.Template
