@@ -1,7 +1,5 @@
 # Rad-Vm-Deployment 
 
-***"It's rad!"***
-
 # Build is verified working in PowerCLI 6.5 Release 1 build 4624819
 
 This is a very simple yet powerful way to semi-automate vm deployment in vCenter 5.5 and onward (tested up to 6.7). This will loop thru each vm one by one.
